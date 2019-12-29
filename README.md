@@ -1,2 +1,2 @@
 # NN
-Neuronal Network
+Neural Network
